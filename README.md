@@ -46,9 +46,6 @@ Contributions are welcome, but please contact me first before making any changes
 3. Document your changes
 4. Create a pull request with a clear description
 
-## License
-[TBD] - License information will be added soon.
-
 ## Contact
 
 - **LinkedIn**: [Lev Shapiro](https://www.linkedin.com/in/lev-shapiro-642b45227/)
