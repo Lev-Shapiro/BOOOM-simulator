@@ -50,3 +50,18 @@ Contributions are welcome, but please contact me first before making any changes
 
 - **LinkedIn**: [Lev Shapiro](https://www.linkedin.com/in/lev-shapiro-642b45227/)
 - **Email**: shapirolev2@gmail.com
+
+## TODO List
+- [ ] Missile Dataset
+  - [ ] What missiles will be used? (for starters)
+  - [ ] Research about Missiles - their types, elements and statistics.
+  - [ ] Chosen Missiles Data Gathering
+  - [ ] Filling information not publicly available
+- [ ] Missile Motion
+  - [ ] Research
+  - [ ] Evaluate
+  - [ ] Initialize Formulas
+  - [ ] Initialize Gravity
+  - [ ] 3D Motion
+  - [ ] Next Steps... 
+- [ ] Next Steps...
