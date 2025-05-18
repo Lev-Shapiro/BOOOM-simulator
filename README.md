@@ -11,23 +11,12 @@ The simulation aims to:
 - Create AI-driven tactical decision making
 - Provide visualization of battlefield scenarios
 
-## Project Status
-🚧 **Under Development** 🚧
-
 ## Technical Stack
 - **Language**: Python
 - **ML Framework**: Custom-built (no external AI API providers)
 - **Physics Engine**: [TBD]
 - **Visualization**: [TBD]
 - **Testing**: [TBD]
-
-## Architecture
-The project follows Domain-Driven Design principles with the following components:
-- Core simulation engine
-- Physics calculation modules
-- ML-based decision making
-- Data visualization layer
-- Scenario configuration system
 
 ## Installation & Setup
 ```bash
